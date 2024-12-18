@@ -1,23 +1,21 @@
 ### Prazer, me chamo Arthur 👋
 
-#### Aqui estão algumas informações sobre mim e sobre meu perfil
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurpanetto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)     ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurpanetto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+#### Aqui estão algumas informações sobre mim e meu perfil:
+Sou apaixonado por tecnologia e atualmente trabalho como Analista de Segurança da Informação, com foco em operações de **Blue Team**. Sempre em busca de aprimorar minhas habilidades e expandir meu conhecimento na área de cibersegurança.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-panetto-7b170722b/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yuuki027/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurpanetto)
+- 🔭 **Atualmente trabalhando em:** proteção de sistemas e redes contra ameaças cibernéticas.  
+- 🌱 **Aprendendo mais sobre:** Threat Hunting, Resposta a Incidentes e Gestão de Vulnerabilidades.  
+- 🎯 **Objetivo:** me tornar um especialista em Segurança da Informação, explorando também áreas como Red Team.  
+- 🧑‍💻 **Estudante:** atualmente no 7º período de Ciência da Computação, em constante evolução.   
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### Estatísticas do meu perfil:
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/yuukizzz.png)
 
-<!--
-**arthurpanetto/arthurpanetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurpanetto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-Here are some ideas to get you started:
+#### Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-panetto-7b170722b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Obrigado por visitar meu perfil! 🚀
