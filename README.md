@@ -4,7 +4,7 @@
 Sou apaixonado por tecnologia e atualmente trabalho como Analista de Segurança da Informação, com foco em operações de **Blue Team**. Sempre em busca de aprimorar minhas habilidades e expandir meu conhecimento na área de cibersegurança.
 
 - 🔭 **Atualmente trabalhando em:** proteção de sistemas e redes contra ameaças cibernéticas.  
-- 🌱 **Aprendendo mais sobre:** Threat Hunting, Resposta a Incidentes e Gestão de Vulnerabilidades.  
+- 🌱 **Aprendendo mais sobre:** Threat Hunting, Resposta a Incidentes e Analise de Vulnerabilidades.  
 - 🎯 **Objetivo:** me tornar um especialista em Segurança da Informação, explorando também áreas como Red Team.  
 - 🧑‍💻 **Estudante:** atualmente no 7º período de Ciência da Computação, em constante evolução.   
 
